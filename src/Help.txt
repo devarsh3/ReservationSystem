@@ -1,0 +1,18 @@
+To make a Reservation, click on the "Reservation" Button
+
+To place an Order:
+Click on the "Takeout" Button
+Type the name of the item and then click "Add"
+The Selected Item will appear on the side
+with the price
+Enter your information and pickup time and comfirm your order
+
+To login into the Admin Account:
+Click on the "Admin" Button
+Login with the Username and Password
+Further instructions will be on the Admin Page
+
+To make a Exit, click on the "Exit" Button
+
+We are Open Monday to Friday
+From 11am to 3pm

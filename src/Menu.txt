@@ -1,0 +1,18 @@
+Tomato Soup/4.00
+Chicken Soup/5.00
+Beef Soup/5.00
+Mushroom Soup/4.50
+Grilled Sandwich/3.50
+Tuna Sandwich/5.50
+Veg Sandwich/4.50
+Chicken Sandwich/5.00
+Ham Sandwich/4.00
+Chocolate Cake/6.00
+Strawberry Cake/6.00
+Pineapple Cake/6.00
+Black Forest Cake/7.50
+Oreo Cheesecake/6.50
+Banana Split/3.00
+Pineapple Sundae/5.50
+Apple Crisp/4.00
+Brownie Special/7.00

@@ -1,0 +1,12 @@
+Reservations or Takeouts can be chosen from the top right buttons
+
+To Delete a Reservation/Takeout,
+Type the Name of customer
+Then Click "Delete"/"Paid"
+
+To Clear reservations/takeouts,
+Click on the "Clear Reservations/Takeout" Button
+
+Reservations/Takeouts can be sorted by time
+
+Username,Password, Menu, Timings, Help pages can be changed through "Privacy Settings"
